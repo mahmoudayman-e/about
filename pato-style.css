@@ -61,6 +61,10 @@
     cursor: pointer;
     transition: all .6s;
 }
+.menuicon:hover{
+    color: red;
+    cursor: pointer;
+}
 /* --------------- our story ----------------- */
 .t-1{
     display: flex;
